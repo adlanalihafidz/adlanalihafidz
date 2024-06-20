@@ -1,12 +1,10 @@
 - 👋 Hi, I’m @adlanalihafidz
-- 👀 User Interfaces Enthusiast
+- 👀 User Interfaces, front end, graphic design Enthusiast
 - ✉️ Reach me at adlanalihafidz@gmail.com
 
-<div class="row justify-content-center">
 <p>THANK YOU</p>
 <p>and</p>
 <p>LET'S CONNECT</p>
-</div>
 
 <!---
 adlanalihafidz/adlanalihafidz is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
